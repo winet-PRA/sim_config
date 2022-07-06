@@ -1,4 +1,4 @@
-# dataset for simulation
+# Dataset for simulation
 ## Partitioning of DNN models
   * python code for partitioning DNN models
   
