@@ -1,5 +1,5 @@
 # dataset for simulation
-## Partition algorithm
+## Partitioning of DNN models
   * python code for partitioning DNN models
   
      - Parition.py
