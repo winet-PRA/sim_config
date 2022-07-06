@@ -5,7 +5,7 @@
      - Parition.py
      
 ## DNN Layer Information
-* Describe DNN Layer information in pdf files
+* Describe Layer information of DNN model
   - DNN Layer Information - AlexNet.pdf
   - DNN Layer Information - NiN.pdf
   - DNN Layer Information - ResNet.pdf
