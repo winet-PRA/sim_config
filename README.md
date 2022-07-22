@@ -1,4 +1,4 @@
-# Dataset for simulation
+# Dataset for simulation of PRA algorithm
 ## Partitioning of DNN models
   * Python code for partitioning DNN models
   
