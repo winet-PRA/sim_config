@@ -1,4 +1,4 @@
-# PRA simulation configuration
+# PRA Simulation Configuration
 ## Partitioning of DNN models
   * Python code for partitioning DNN models
   
