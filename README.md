@@ -3,7 +3,11 @@
   * Python code for partitioning DNN models
   
      - Parition.py
-       - input: DNN DAG structure (type: nxgraph)
+       - input: 
+         - DNN DAG structure (type: nxgraph)
+         - IoT Device information
+         - DNN Layer information
+         - time constraint
      
 ## DNN Layer Information
 * Describe Layer information of DNN model
