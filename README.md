@@ -3,7 +3,7 @@
   * Python code for partitioning DNN models
   
      - Parition.py
-       - Function partitioning(dag_graph, device_info, layer_info, time_constraint):: 
+       - **Function** partitioning(dag_graph, device_info, layer_info, time_constraint):
          - dag_graph: DNN DAG structure
          - device_info: IoT Device information
          - layer_info: DNN Layer information
